@@ -1,0 +1,26 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+  .inicio{
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+ }
+ 
+ .navbrand{
+    width: 120px;
+    line-height: 60px;
+ }
+ 
+ nav{
+    float: right;
+    line-height: 60px;
+ }
+ 
+ nav a{
+    color: #81C7B1;
+    text-decoration: none;   
+ }
+
+ 
+
